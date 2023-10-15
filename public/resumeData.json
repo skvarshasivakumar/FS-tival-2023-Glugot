@@ -1,0 +1,102 @@
+{
+  "main": {
+    "name":"● Artificial Intelligence",
+    "description":"Welcome to New Shri Ram Mess, a pure vegetarian restaurant located in the heart of Tamil Nadu. At Shri Ram mess we are passionate about serving delicious, nourishing food that is free from any animal products.",
+    "image":"profilepic.png",
+
+    "bio":"FS'tival, organized by the Department of Computer Science and Engineering at Thiagarajar College of Engineering, has been a platform for fostering awareness of Free and Open Source Software (FOSS) since 2004. Our aim is to connect individuals across age groups and domains, allowing them to explore, interact, and share their experiences with open source technology.",
+    "contactmessage":"For further Queries and Feedback write back to us at",
+    "email": "● Foss Tools In Daily Life",
+    "phone": "● Cyber Security",
+    "github":"www.tce.edu",
+    "video":"www.tce.edu",
+    "address":{
+      "street":"● Mobile App Technology",
+      "city":"● Web App Technology"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.linkedin.com/school/thiagarajar-college-of-engineering/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://www.tce.edu/",
+        "className":"fa fa-globe"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Treasure Hunt",
+        "degree":"1st Year CSE/TCE",
+        "description":"Our treasure hunt, exclusively designed for first-year Computer Science and Computer Engineering students, will put your problem-solving skills to the test. Decode clues, navigate challenges, and race against time in this thrilling escapade."
+      },
+      {
+        "school":"Quiz on Open Source",
+        "degree":"School Level",
+        "description":"This quiz is specially designed for school students to test their understanding of the world of free and open-source software. Sharpen your skills and embrace the spirit of healthy competition."
+      },
+      {
+        "school":"Project Display",
+        "degree":"School Students",
+        "description":"Celebrate the brilliance of budding tech enthusiasts from local schools.Be inspired by the potential of young minds shaping the future."
+      },
+      {
+        "school":"Project Showcase:",
+        "degree":"3rd Year TCE Students",
+        "description":" Get a glimpse into the innovative solutions they've engineered, from mobile apps and web platforms to AI-powered applications. Immerse yourself in their creativity and vision for a tech-enabled world."
+      },
+      {
+        "school":"Tool Demo",
+        "degree":"2nd Year TCE Students",
+        "description":"Step into the realm of cutting-edge technology as our second-year participants showcase a wide array of open-source tools. Witness firsthand how these tools are shaping the future of software development, enhancing productivity, and unlocking new possibilities"
+    }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"",
+        "image":"besttool.png"
+
+      },
+      {
+        "title":"Unreal Engine",
+        "image":"unreal.jpg"
+
+      },
+      {
+        "title":"Flask",
+        "image":"flask.jpg"
+      },
+      {
+        "title":"Django",
+        "image":"django.jpg"
+      }
+    ],
+    "projects2": [
+      {
+        "title":"",
+        "image":"bestproject.png"
+
+      },
+      {
+        "title":"Unreal Engine",
+        "image":"unreal3.jpg"
+
+      },
+      {
+        "title":"Flutter",
+        "image":"flutter.png"
+      },
+      {
+        "title":"React JS",
+        "image":"react.jpg"
+      }
+    ]
+  }
+}
