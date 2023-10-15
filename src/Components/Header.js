@@ -33,7 +33,7 @@ const coloring={
             <Fade bottom duration={2000} triggerOnce={true}>
               <ul className="social">
                 <a href={video} className="button btn project-btn">
-                  <i className="fa fa-play"></i>2022 Glimpse
+                  <i className="fa fa-play"></i>Video Glimpse
                 </a>
                 <a href={github} className="button btn github-btn">
                   <i className="fa fa-globe"></i>TCE Website
